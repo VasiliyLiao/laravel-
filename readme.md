@@ -17,6 +17,6 @@
 ### 2.安裝npm package
 ``` npm install express ioredis socket.io --save ```
 ### 3.env檔進行修改
-``` BROADCAST_DRIVER=redis```
+``` BROADCAST_DRIVER=redis ```
 
 參考連接為:[http://jaceju.net/2015/07/26/laravel-events-broadcasting/]
